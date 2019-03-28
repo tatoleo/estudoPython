@@ -8,4 +8,4 @@ def funcao (valor1, valor2):
 
 s = funcao(4,3)
 
-print s
+print (s)

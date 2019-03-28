@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 mensagem = "Olá"
-print mensagem
+print (mensagem)
 
 var1 = 1 		# inteiro
 var2 = 1.1 		# float
